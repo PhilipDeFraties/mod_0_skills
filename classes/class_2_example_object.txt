@@ -9,6 +9,6 @@ cleanHands: false
 
 Methods:
 goToWalkIn: onCookLine = false
-takeBreak: energryLevel << "high"
+takeBreak: energryLevel = "high"
 takeTicket: openOrders + 1 = 6
 washHands: cleanHands = true
