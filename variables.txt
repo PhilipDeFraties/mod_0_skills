@@ -1,0 +1,17 @@
+food = "apple"
+
+is_delicious = true
+
+is_delicious = false
+
+num2 = 5
+
+num7 = 10
+
+quotient = num7 / num2
+
+songs = ["kashmir", "when the levee breaks", "whole lotta love"]
+
+songs.shift
+
+food.length
