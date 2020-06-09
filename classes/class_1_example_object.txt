@@ -1,0 +1,15 @@
+Instance: jadeStewart
+
+Attributes:
+
+onClock: false
+age: 29
+openChecks: 3
+isHungry: true
+
+Methods:
+
+clockIn: onCLock = true
+hasBirthday: age + 1 = 30
+takeNewOrder: openChecks + 1 = 4
+eatLunch: isHungry = false
