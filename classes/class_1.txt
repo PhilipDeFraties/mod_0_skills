@@ -2,14 +2,14 @@ class Server
 
 Attributes:
 
-age: (integer)
-openChecks: (array)
 onClock: (boolean)
+age: (integer)
+openChecks: (integer)
 isHungry: (boolean)
 
 Methods:
 
-hasBirthday: (age + 1)
-placeOrder: (openCHecks + 1)
 clockIn: (onClock = true)
+hasBirthday: (age + 1)
+takeNewOrder: (openCHecks + 1)
 eatLunch: (isHungry = false)
