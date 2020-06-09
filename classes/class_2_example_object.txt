@@ -1,0 +1,14 @@
+Instance: johnAddy
+
+Attributes:
+
+onCookLine: true
+energeryLevel: "low"
+openOrders: 5
+cleanHands: false
+
+Methods:
+goToWalkIn: onCookLine = false
+takeBreak: energryLevel << "high"
+takeTicket: openOrders + 1 = 6
+washHands: cleanHands = true
