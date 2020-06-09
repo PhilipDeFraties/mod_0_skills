@@ -1,0 +1,14 @@
+class Cook
+
+Attributes:
+
+onCookLine: (boolean)
+energyLevel: (string)
+openOrders: (integer)
+cleanHands: (boolean)
+
+Methods:
+goToWalkIn: (onCookLine = false)
+takeBreak: (energryLevel << "high")
+takeTicket: (openOrders + 1)
+washHands: (cleanHands = true)
