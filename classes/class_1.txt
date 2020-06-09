@@ -1,0 +1,15 @@
+class Server
+
+Attributes:
+
+age: (integer)
+openChecks: (array)
+onClock: (boolean)
+isHungry: (boolean)
+
+Methods:
+
+hasBirthday: (age + 1)
+placeOrder: (openCHecks + 1)
+clockIn: (onClock = true)
+eatLunch: (isHungry = false)
